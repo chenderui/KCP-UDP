@@ -8,3 +8,5 @@ gcc ikcp.c server.c -o server
 gcc ikcp.c client.c -o client
 
 先运行server,再运行client。
+
+test
